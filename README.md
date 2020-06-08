@@ -1,4 +1,4 @@
-# NjiyonDonwnloader
+# NjiyonDownloader
 Download Nijiyon from some web sites.
 
 Now election prolect is held.

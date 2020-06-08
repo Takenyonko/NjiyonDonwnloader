@@ -5,10 +5,14 @@ Now election prolect is held.
 Top-1 frame will be commercialized!
 http://gs.dengeki.com/news/138616/
 
-Requirements
+## Requirements
 - Python3.7
 
-Running
-Clone, and cd into the directory.
+## Running
+Clone, and `cd` into the directory.
 You could just type 
+```
 python downloadNijiyon.py
+```
+
+After all, Nijiyon would downloaded at "data" repository.
